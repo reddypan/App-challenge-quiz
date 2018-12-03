@@ -1,0 +1,30 @@
+body {
+    background-image: url("photo-1478428036186-d435e23988ea.jpg");
+    background-size: cover;
+    background-repeat: repeat;
+}
+
+header {
+
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 25px;
+}
+
+footer{
+    clear: both;
+    background-color: #0b0c10 ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-style: ridge;
+    text-align: center;
+    color: white;
+}
+
+#form-input1, #story, #tasks{
+    color:white;
+}
+
+#story, #tasks{
+    color: black;
+}
